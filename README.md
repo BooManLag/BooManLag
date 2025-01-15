@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Bumanlag</h1>
-<h3 align="center">A GDSC Lead and CEO of GDSC PLM & Notion Campus Leader</h3>
+<h3 align="center">A Mobile Engineer @ ING Hubs PH and Notion Ambassador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boomanlag&label=Profile%20views&color=0e75b6&style=flat" alt="boomanlag" /> </p>
 
