@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/boomanlag" target="blank"><img src="https://img.shields.io/twitter/follow/boomanlag?logo=twitter&style=for-the-badge" alt="boomanlag" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and other Mobile Development Languages**
+- 🌱 I’m currently learning **Swift and other Mobile Development Languages**
 
 - 👨‍💻 All of my projects are available at [https://joshuabumanlag.typedream.app/](https://joshuabumanlag.typedream.app/)
 
