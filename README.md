@@ -14,7 +14,7 @@
   <a href="https://twitter.com/boomanlag"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/s1mplejoshuaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:joshuabumanlagwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://joshuabumanlag.typedream.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://joshua-portfolio-gamma-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ class Joshua extends Engineer {
 - 📱 I build **mobile apps** that people actually enjoy using
 - 🌱 Currently learning **Swift** and other mobile development languages
 - 💬 Ask me about **Flutter** and **Firebase**
-- 🗂️ Projects & experience → **[Check my portfolio here!]([https://joshuabumanlag.typedream.app/](https://joshua-portfolio-gamma-ten.vercel.app/))**
+- 🗂️ Projects & experience → **[Check my portfolio here!](https://joshua-portfolio-gamma-ten.vercel.app/)**
 - 📫 Reach me at **joshuabumanlagwork@gmail.com**
 
 ---
