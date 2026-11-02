@@ -38,7 +38,7 @@ class Joshua extends Engineer {
 - 📱 I build **mobile apps** that people actually enjoy using
 - 🌱 Currently learning **Swift** and other mobile development languages
 - 💬 Ask me about **Flutter** and **Firebase**
-- 🗂️ Projects & experience → **[joshuabumanlag.typedream.app](https://joshuabumanlag.typedream.app/)**
+- 🗂️ Projects & experience → **[Check my portfolio here!]([https://joshuabumanlag.typedream.app/](https://joshua-portfolio-gamma-ten.vercel.app/))**
 - 📫 Reach me at **joshuabumanlagwork@gmail.com**
 
 ---
